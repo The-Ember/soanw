@@ -21,7 +21,7 @@
   "esmodules": ["dnd5e.mjs"],
   "styles": ["dnd5e.css"],
  
-  /*
+
   "packs": [
     {
       "name": "heroes",
@@ -123,7 +123,6 @@
     }
   ],
   
-*/
   
   "media": [
     {
